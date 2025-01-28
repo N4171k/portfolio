@@ -5,24 +5,24 @@ import github from "../assets/github.png";
 
 const contacts = [
   {
-    label: "abc@gmail.com",
+    label: "tiwarinaitik9@gmail.com",
     icon: email,
-    link: "mailto:abc@gmail.com",
+    link: "mailto:tiwarinaitik9@gmail.com",
   },
   {
     label: "LinkedIn",
     icon: linkedin,
-    link: "https://www.linkedin.com",
+    link: "https://www.linkedin.com/iamnaitik",
   },
   {
     label: "Github",
     icon: github,
-    link: "https://github.com",
+    link: "https://github.com/n4171k",
   },
   {
-    label: "@xprofile",
+    label: "@naitiktmusic",
     icon: twitter,
-    link: "https://x.com",
+    link: "https://x.com/naitiktmusic",
   },
 ];
 

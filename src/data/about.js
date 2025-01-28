@@ -1,7 +1,7 @@
-const name = "Name";
+const name = "Naitik";
 const headline =
-  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ";
+  "AI & Full-Stack Developer • Hackathon Winner (Top 4%) • Building Khoj & CodePen Clone • Innovating Music with RVC Models ⚡";
 const about =
-  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).";
+  "Merging academic rigor with hands-on problem-solving in Web Dev, C++, UI/UX, and AI. Technical Team Lead @ Amity Coding Club & GSSoC’24 Contributor | Built Khoj (AI search tool) and CodePen Clone. 4th/90 teams @ Samadhaan Hackathon (AI chatbot) | Certified in C Programming (UCSC) & Google Cloud.Passionate about AI-music innovation (RVC models) | Community Captain @ Zuno | Volunteer @ GDG DevFest 2024.Let’s connect to build, learn, or geek out about tech! 🚀";
 
 export { name, headline, about };

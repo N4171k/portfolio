@@ -19,10 +19,10 @@ const skills = [
     name: "Javascript",
     icon: javaScript,
   },
-  {
-    name: "Java",
-    icon: java,
-  },
+  // {
+  //   name: "Java",
+  //   icon: java,
+  // },
   {
     name: "React JS",
     icon: react,
@@ -47,14 +47,14 @@ const skills = [
     name: "Firebase",
     icon: firebase,
   },
-  {
-    name: "Github Actions",
-    icon: githubActions,
-  },
-  {
-    name: "Flutter",
-    icon: flutter,
-  },
+  // {
+  //   name: "Github Actions",
+  //   icon: githubActions,
+  // },
+  // {
+  //   name: "Flutter",
+  //   icon: flutter,
+  // },
 ];
 
 export { skills };

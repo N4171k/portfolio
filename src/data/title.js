@@ -24,7 +24,7 @@ const description = [
   "Mobile developer",
   "UI Designer"
 ];
-const location = "XXX, YY, ZZZ";
+const location = "";
 const greetings = "Hello!";
 const pronoun = "It's me";
 const aboutMe = "About Me";
@@ -33,7 +33,7 @@ const experience = "Education and Work";
 const projectsContributions = "Projects and Contributions";
 const viewCode = "View Code";
 const contact = "Let's chat!";
-const footer = "Designed and developed by Name with code and coffee";
+const footer = "Designed and developed by Naitik Tiwari";
 
 export {
   navBar,
