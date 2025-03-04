@@ -12,6 +12,13 @@ const workAndEducation = [
     responsibility:
       "Worked on a hospital website by fixing bugs and improving the user interface (UI).",
   },
+    {
+    year: "MAR 2024",
+    organization: "Amity Coding Club",
+    position: "Technical Team Member",
+    responsibility:
+      "Worked in technical team at Amity coding club; created hosted website for registration and cunduction of internal hackathon",
+  },
   // {
   //   year: "MM YYYY - MM YYYY",
   //   organization: "GHIJ",
